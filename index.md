@@ -18,17 +18,17 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ### Data Management for Industrial IOT
 
-<img src="/blog/assets/tsdw.png" width = "80%" align=center />
+<img src="/assets/tsdw.png" width = "80%" align=center />
 
 Time series is the first class citizen in industrial scenarios. Machines with hundreds of sensors generate tons of time series data that need to be stored and analyzed, demanding for a scalable and reliable storage service. However, existing solutions (e.g., OpenTSDB, Influxdb, and Timescaledb) either adopt a single node deployment, or luck of an aproperiate data model. Therefore, we developed a new time series storage service, leveraging existing open sourced projects such as Hadoop, Kafka, Zookeeper, and Parquet. We built key building blocks to enable atomic data ingestion, partitioning, and compaction. Time series data can be directly read, processed, and analyzed by parallel computing frameworks such as Map-reduce or Spark.
 
-<img src="/blog/assets/obj.png" width = "60%" align=center />
+<img src="/assets/obj.png" width = "60%" align=center />
 
 Machines not only generate time series, but also a huge number of objects. Storing those files sounds trivial, while analyzing them incurs challenges, especially on a huge number of files. Our goal is to build an object storage service which is capable of holding a huge number of files, as well as offering easy interfaces for data analysis. For this purpose, we adopt the data model of **object = metadata + file**. The metadata is indexed by Elasticsearch, and we implement atomic CURD. We keep the file in HDFS, where Map-reduce or Spark programs can directly read the files. To prevent from the "small-file-problem", a background housekeeper process continuously compacts small files. 
 
 ### Transportation Activity Recognition on Smartphones
 
-<img src="/blog/assets/architecture.jpg" width = "40%" align=center />
+<img src="/assets/architecture.jpg" width = "40%" align=center />
 
 In  data crowdsourcing, it is useful to know your user's transportation status. For instance, for a map maintainer, knowing the transportation status helps to distinguish if the data is collected on road, sidewalk, or in building. However, it is nontrivial to approach high accuracy. Practical challenges include unknown phone gesture, random noises, and achieving high energy efficiency. I designed a framework combining both inputs from the inertial sensors (accelerometer and gyroscope) and various contextual informations. Extraneous events incurred by user random activities are filtered with intuitive rules discovered through our training data from tens of people. We finally achieved a significantly better accuracy compared with existing frameworks from Google and Samsung.
 
@@ -37,13 +37,13 @@ In  data crowdsourcing, it is useful to know your user's transportation status. 
 
 Localization in indoor areas is nontrivial due to the fact that GPS signals cannot penetrate walls. To tackle this challenge, we leverage various signals, e.g., Wi-Fi, Bluetooth, Geomagnetic field, IMU sensors, and even visible light, which are commonly found in indoor environment. 
 
-![Localization](/blog/assets/localization.jpg)
+![Localization](/assets/localization.jpg)
 
 Specifically, we proposed a Wi-Fi based positioning system called [*Modellet*](http://research.microsoft.com/jump/221298). Modellet takes advantage of both fingerprint-based and model-based approaches, and is able to adapt to environmental locality and training data density. We evaluate Modellet with data collected from venues (office, airport, and shopping mall) across China, Germany, and the U.S. We show that Modellet outperforms Radar and EZPerfect. Secondly, we build a system called [*Magicol*](https://kabru.eecs.umich.edu/yuanchao/paper/jsac15magicol.pdf) adding more modalities, i.e., Geomagnetic field and IMU sensors, to the system to improve localization accuracy. We leverage the particle filter framework to fuse the signals. Evaluation results show that Magicol achieves around 2-meter accuracy in office and shopping mall areas. Finally, we explore the possibility of positioning with visible light emitted from LEDs. LED bulbs are modified to blink in unique patterns (invisible to human eyes). Any device with a light sensor can decode and estimate its own postion based on the light energy propagation model. The system is called [*Epsilon*](http://research.microsoft.com/pubs/209511/epsilon-cameraready.pdf) which achieves submeter-level accuracy. 
 
 ### Wireless Sensor Network
 
-![Sensor Networking](/blog/assets/sensor.jpg)
+![Sensor Networking](/assets/sensor.jpg)
 
 Wireless sensor network (WSN) typically refers to a large number of networked embedded devices, called sensor nodes. In WSNs, data is transmitted from one node to another in a multi-hop minor. WSNs are usually deployed in harsh environments like in forest or around volcano, and therefore the nodes face frequent failures. I studied several issues raised from WSNs. Specifically, I develop voice-streaming systems (namely [QVS](http://www.cse.msu.edu/~glxing/docs/voice_icdcs09.pdf) and [ASM](http://www.cse.msu.edu/~glxing/docs/asm_rtss10.pdf)) which are aware of the voice quality. These systems prevent the problem of network congestion with an admission control protocol. I also investigate the [time synchronization](http://www.cse.msu.edu/~glxing/docs/rds-li.pdf) problem where we need to maintain accurate relative time between sensor nodes. I exploit the regular pattern of the RDS data carried by the FM radio signal for energy efficient millisecond-level time synchronization in city-scale sensor networks. 
 
