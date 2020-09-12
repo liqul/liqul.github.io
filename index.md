@@ -1,6 +1,6 @@
-I am a system engineer with interests across IOT, Big Data, and Machine Learning. 
+I am a system researcher & engineer with interests across Cloud, IoT, Big Data, and Machine Learning. 
 
-I received my Ph.D on computer science from Institute of software Chinese academy of sciences in 2012, and B.E. from department of Computer science and technology at Tsinghua University in 2006. I visited Michigan State University in 2009 as a visiting scholar. 
+I received my Ph.D on CS from Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and B.E. from department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
 I like photography and reading books. To find some of my photos, please visit my <a href="https://500px.com/liqul">500px</a>. 
 
@@ -9,14 +9,15 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ## Work Experience
 
-* **2016.11 - now** Architect at [K2Data](http://k2data.com.cn). 
+* **2019.6  - now** Senior Researcher in Data. Knowledge. Intelligence (DKI) group at Microsoft Research Asia (MSRA).
+* **2016.11 - 2019.6** Architect at [K2Data](http://k2data.com.cn). 
 * **2016.5  - 2016.11** Engineer at [高德地图](https://www.amap.com/).
 * **2014.11 - 2016.2** Engineer at [PPzuche.com](http://www.ppzuche.com).
-* **2012.8  - 2014.11** Researcher in Microsoft Research Asia (MSRA).
+* **2012.8  - 2014.11** Researcher in Mobile Sensing and Systems group (MASS) at Microsoft Research Asia (MSRA).
 
 ## Selected Projects
 
-### Data Management for Industrial IOT
+### Data Management for Industrial IoT
 
 <img src="/assets/tsdw.png" width = "80%" align=center />
 
@@ -48,6 +49,16 @@ Specifically, we proposed a Wi-Fi based positioning system called [*Modellet*](h
 Wireless sensor network (WSN) typically refers to a large number of networked embedded devices, called sensor nodes. In WSNs, data is transmitted from one node to another in a multi-hop minor. WSNs are usually deployed in harsh environments like in forest or around volcano, and therefore the nodes face frequent failures. I studied several issues raised from WSNs. Specifically, I develop voice-streaming systems (namely [QVS](http://www.cse.msu.edu/~glxing/docs/voice_icdcs09.pdf) and [ASM](http://www.cse.msu.edu/~glxing/docs/asm_rtss10.pdf)) which are aware of the voice quality. These systems prevent the problem of network congestion with an admission control protocol. I also investigate the [time synchronization](http://www.cse.msu.edu/~glxing/docs/rds-li.pdf) problem where we need to maintain accurate relative time between sensor nodes. I exploit the regular pattern of the RDS data carried by the FM radio signal for energy efficient millisecond-level time synchronization in city-scale sensor networks. 
 
 ## Publications
+
+**AIOps**
+
+
+Jiazhen Gu; Jiaqi Wen; Zijian Wang; Pu Zhao; Chuan Luo; Yu Kang; Yangfan Zhou; Li Yang; Jeffrey Sun; Zhangwei Xu; Bo Qiao; **Liqun Li**; Qingwei Lin; Dongmei Zhang; Efficient Customer Issue Triage via Linking with System Incidents, FSE (Industry)'20
+
+
+Zhuangbin Chen; Yu Kang; Hui Xu; Yangfan Zhou; Feng Gao; Li Yang; Jeffrey Sun; Zhangwei Xu; Pu Zhao; Bo Qiao; **Liqun Li**; Xu Zhang; Yingnong Dang; Qingwei Lin; Hongyu Zhang; Dongmei Zhang; Michael R. Lyu; Towards Intelligent Incident Management: Why We Need It and How We Make It, FSE (Industry)'20
+
+
 
 **Indoor Localization**
 
