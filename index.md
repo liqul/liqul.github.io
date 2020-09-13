@@ -12,7 +12,7 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 * **2019.6  - now** Senior Researcher in Data. Knowledge. Intelligence (DKI) group at Microsoft Research Asia (MSRA).
 * **2016.11 - 2019.6** Architect at [K2Data](http://k2data.com.cn). 
 * **2016.5  - 2016.11** Engineer at [高德地图](https://www.amap.com/).
-* **2014.11 - 2016.2** Engineer at [PPzuche.com](http://www.ppzuche.com).
+* **2014.11 - 2016.2** Engineer at [PP租车](http://www.ppzuche.com).
 * **2012.8  - 2014.11** Researcher in Mobile Sensing and Systems group (MASS) at Microsoft Research Asia (MSRA).
 
 ## Selected Projects
@@ -21,7 +21,7 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 <img src="/assets/tsdw.png" width = "80%" align=center />
 
-Time series is the first class citizen in industrial scenarios. Machines with hundreds of sensors generate tons of time series data that need to be stored and analyzed, demanding for a scalable and reliable storage service. However, existing solutions (e.g., OpenTSDB, Influxdb, and Timescaledb) either adopt a single node deployment, or luck of an aproperiate data model. Therefore, we developed a new time series storage service, leveraging existing open sourced projects such as Hadoop, Kafka, Zookeeper, and Parquet. We built key building blocks to enable atomic data ingestion, partitioning, and compaction. Time series data can be directly read, processed, and analyzed by parallel computing frameworks such as Map-reduce or Spark.
+Time series is the first class citizen in industrial scenarios. Machines with hundreds of sensors generate tons of time series data that need to be stored and analyzed, demanding for a scalable and reliable storage service. However, existing solutions (e.g., OpenTSDB, Influxdb, and Timescaledb) either adopt a single node deployment, or lack of an aproperiate data model. Therefore, we developed a new time series storage service, leveraging existing open sourced projects such as Hadoop, Kafka, Zookeeper, and Parquet. We built key building blocks to enable atomic data ingestion, partitioning, and compaction. Time series data can be directly read, processed, and analyzed by parallel computing frameworks such as Hadoop Map-reduce or Spark.
 
 <img src="/assets/obj.png" width = "60%" align=center />
 
@@ -29,7 +29,7 @@ Machines not only generate time series, but also a huge number of objects. Stori
 
 ### Transportation Activity Recognition on Smartphones
 
-<img src="/assets/architecture.jpg" width = "40%" align=center />
+<img src="/assets/architecture.jpg" width = "30%" align=center />
 
 In  data crowdsourcing, it is useful to know your user's transportation status. For instance, for a map maintainer, knowing the transportation status helps to distinguish if the data is collected on road, sidewalk, or in building. However, it is nontrivial to approach high accuracy. Practical challenges include unknown phone gesture, random noises, and achieving high energy efficiency. I designed a framework combining both inputs from the inertial sensors (accelerometer and gyroscope) and various contextual informations. Extraneous events incurred by user random activities are filtered with intuitive rules discovered through our training data from tens of people. We finally achieved a significantly better accuracy compared with existing frameworks from Google and Samsung.
 
