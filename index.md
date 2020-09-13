@@ -1,4 +1,4 @@
-I am a system researcher & engineer with interests across Cloud, IoT, Big Data, and Machine Learning. 
+I am a system researcher & engineer with interests across Cloud, IoT, Big Data, and Machine Learning. I am currently focusing on AIOps projects where we leverage data-driven approaches to solve problems through the entire life-cycle of an online service. Particularly, I spend most time on optimizing the incident response process for Azure. 
 
 I received my Ph.D on CS from Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and B.E. from department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
