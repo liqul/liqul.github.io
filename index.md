@@ -54,7 +54,7 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 
 + Jiazhen Gu; Jiaqi Wen; Zijian Wang; Pu Zhao; Chuan Luo; Yu Kang; Yangfan Zhou; Li Yang; Jeffrey Sun; Zhangwei Xu; Bo Qiao; **Liqun Li**; Qingwei Lin; Dongmei Zhang; [Efficient Customer Issue Triage via Linking with System Incidents](https://www.microsoft.com/en-us/research/publication/efficient-customer-issue-triage-via-linking-with-system-incidents/), *FSE (Industry)*'20
 + Zhuangbin Chen; Yu Kang; Hui Xu; Yangfan Zhou; Feng Gao; Li Yang; Jeffrey Sun; Zhangwei Xu; Pu Zhao; Bo Qiao; **Liqun Li**; Xu Zhang; Yingnong Dang; Qingwei Lin; Hongyu Zhang; Dongmei Zhang; Michael R. Lyu; [Towards Intelligent Incident Management: Why We Need It and How We Make It](https://www.microsoft.com/en-us/research/publication/towards-intelligent-incident-management-why-we-need-it-and-how-we-make-it-2/), *FSE (Industry)*'20
-+ Yaohui Wang, Guozheng Li, Zijian Wang, Yu Kang, Yangfan Zhou, Hongyu Zhang, Feng Gao, Jeffrey Sun, Li Yang, Pochian Lee, Zhangwei Xu, Pu Zhao, Bo Qiao, Liqun Li, Xu Zhang, Qingwei Lin; Fast Outage Analysis of Large-scale Production Clouds with Service Correlation Mining, *ICSE*'20
++ Yaohui Wang, Guozheng Li, Zijian Wang, Yu Kang, Yangfan Zhou, Hongyu Zhang, Feng Gao, Jeffrey Sun, Li Yang, Pochian Lee, Zhangwei Xu, Pu Zhao, Bo Qiao, **Liqun Li**, Xu Zhang, Qingwei Lin, [Fast Outage Analysis of Large-scale Production Clouds with Service Correlation Mining](https://conf.researchr.org/details/icse-2021/icse-2021-papers/66/Fast-Outage-Analysis-of-Large-scale-Production-Clouds-with-Service-Correlation-Mining), *ICSE*'20
 
 **Indoor Localization**
 
