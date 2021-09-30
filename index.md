@@ -17,6 +17,10 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ## Selected Projects
 
+### AIOps
+
+I'm working on various projects on AIOps now about detection, diagnosis, and mitigation in large-scale cloud systems. Please refer to my published papers (under the AIOps section below) for more details. 
+
 ### Data Management for Industrial IoT
 
 <img src="/assets/tsdw.png" width = "80%" align=center />
