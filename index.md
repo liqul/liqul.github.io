@@ -1,4 +1,4 @@
-I am a system researcher & engineer with interests across Cloud, IoT, Big Data, and Machine Learning. I am currently focusing on AIOps projects where we leverage data-driven approaches to solve problems through the entire life-cycle of an online service. Particularly, I spend most time on optimizing the incident response process for Azure. 
+I am a system researcher & engineer with interests across IoT, Mobile, Big Data, and Cloud. I am currently focusing on AIOps projects where we leverage data-driven approaches to optimize the reliability and provision efficiency of an online service. 
 
 I received my Ph.D on CS from Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and B.E. from department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
@@ -9,7 +9,7 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ## Work Experience
 
-* **2019.6  - now** Senior Researcher in Data. Knowledge. Intelligence (DKI) group at Microsoft Research Asia (MSRA).
+* **2019.6  - now** Principal Researcher in Data. Knowledge. Intelligence (DKI) group at Microsoft Research Asia (MSRA).
 * **2016.11 - 2019.6** Architect at [K2Data](http://k2data.com.cn). 
 * **2016.5  - 2016.11** Engineer at [高德地图](https://www.amap.com/).
 * **2014.11 - 2016.2** Engineer at [PP租车](http://www.ppzuche.com).
@@ -19,7 +19,7 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ### AIOps
 
-I'm working on various projects on AIOps now about detection, diagnosis, and mitigation in large-scale cloud systems. Please refer to my published papers (under the AIOps section below) for more details. 
+I'm working on various projects on AIOps now about incident detection, diagnosis, and mitigation in large-scale cloud systems. Please refer to my published papers (under the AIOps section below) for more details. 
 
 ### Data Management for Industrial IoT
 
@@ -52,11 +52,10 @@ Specifically, we proposed a Wi-Fi based positioning system called [*Modellet*](h
 
 Wireless sensor network (WSN) typically refers to a large number of networked embedded devices, called sensor nodes. In WSNs, data is transmitted from one node to another in a multi-hop minor. WSNs are usually deployed in harsh environments like in forest or around volcano, and therefore the nodes face frequent failures. I studied several issues raised from WSNs. Specifically, I develop voice-streaming systems (namely [QVS](http://www.cse.msu.edu/~glxing/docs/voice_icdcs09.pdf) and [ASM](http://www.cse.msu.edu/~glxing/docs/asm_rtss10.pdf)) which are aware of the voice quality. These systems prevent the problem of network congestion with an admission control protocol. I also investigate the [time synchronization](http://www.cse.msu.edu/~glxing/docs/rds-li.pdf) problem where we need to maintain accurate relative time between sensor nodes. I exploit the regular pattern of the RDS data carried by the FM radio signal for energy efficient millisecond-level time synchronization in city-scale sensor networks. 
 
-## Publications ([Google Scholar](https://scholar.google.com/citations?user=icgetesAAAAJ&hl=en))
+## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=icgetesAAAAJ&hl=en))
 
 **AIOps**
 
-+ Jiazhen Gu; Jiaqi Wen; Zijian Wang; Pu Zhao; Chuan Luo; Yu Kang; Yangfan Zhou; Li Yang; Jeffrey Sun; Zhangwei Xu; Bo Qiao; **Liqun Li**; Qingwei Lin; Dongmei Zhang; [Efficient Customer Issue Triage via Linking with System Incidents](https://www.microsoft.com/en-us/research/publication/efficient-customer-issue-triage-via-linking-with-system-incidents/), *FSE (Industry)*'20
 + Zhuangbin Chen; Yu Kang; Hui Xu; Yangfan Zhou; Feng Gao; Li Yang; Jeffrey Sun; Zhangwei Xu; Pu Zhao; Bo Qiao; **Liqun Li**; Xu Zhang; Yingnong Dang; Qingwei Lin; Hongyu Zhang; Dongmei Zhang; Michael R. Lyu; [Towards Intelligent Incident Management: Why We Need It and How We Make It](https://www.microsoft.com/en-us/research/publication/towards-intelligent-incident-management-why-we-need-it-and-how-we-make-it-2/), *FSE (Industry)*'20
 + Yaohui Wang, Guozheng Li, Zijian Wang, Yu Kang, Yangfan Zhou, Hongyu Zhang, Feng Gao, Jeffrey Sun, Li Yang, Pochian Lee, Zhangwei Xu, Pu Zhao, Bo Qiao, **Liqun Li**, Xu Zhang, Qingwei Lin, [Fast Outage Analysis of Large-scale Production Clouds with Service Correlation Mining](https://conf.researchr.org/details/icse-2021/icse-2021-papers/66/Fast-Outage-Analysis-of-Large-scale-Production-Clouds-with-Service-Correlation-Mining), *ICSE*'20
 + **Liqun Li**, Xu Zhang, Xin Zhao, Hongyu Zhang, Yu Kang, Pu Zhao, Bo Qiao, Shilin He, Pochian Lee, Jeffrey Sun, Feng Gao, Li 
