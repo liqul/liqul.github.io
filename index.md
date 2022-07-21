@@ -1,6 +1,6 @@
-I am a system researcher & engineer with interests across IoT, Mobile, Big Data, and Cloud. I am currently focusing on AIOps projects where we leverage data-driven approaches to optimize the reliability and provision efficiency of an online service. 
+I am a system researcher & engineer with interests in IoT, Mobile, Big Data, and Cloud. I am currently focusing on AIOps projects where I am focused on optimizing the system reliability and resource provisioning efficiency for online services. 
 
-I received my Ph.D on CS from Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and B.E. from department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
+I received my Ph.D. degree in CS from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. degree from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
 I like photography and reading books. To find some of my photos, please visit my <a href="https://500px.com/liqul">500px</a>. 
 
@@ -63,9 +63,7 @@ Yang, Qingwei Lin, Saravanakumar Rajmohan, Zhangwei Xu, and Dongmei Zhang, [Figh
 
 **Indoor Localization**
 
-+ Hu, Pan; **Li, Liqun**; Peng, Chunyi; Shen, Guobin; Zhao, Feng; [Pharos: enable physical analytics through visible light based indoor localization](http://mssn.cse.ohio-state.edu/pubs/Pharos_Hotnets_slide.pdf), *HotNets*'13
 + **Li, Liqun**; Hu, Pan; Shen, Guobin; Peng, Chunyi; Zhao, Feng; [Epsilon: Visible Light Based Positioning System](http://research.microsoft.com/pubs/209511/epsilon-cameraready.pdf), *NSDI*'13
-+ Zheng, Yuanqing; Shen, Guobin; **Li, Liqun**; Zhao, Chunshui; Li, Mo; Zhao, Feng; [Travi-navi: Self-deployable indoor navigation system](http://research.microsoft.com/jump/221299), *Mobicom*'14
 + **Li, Liqun**; Shen, Guobin; Zhao, Chunshui; Moscibroda, Thomas; Lin, Jyh-Han; Zhao, Feng; [Experiencing and Handling the Diversity in Data Density and Environmental Locality in an Indoor Positioning Service](http://research.microsoft.com/jump/221298), *Mobicom*'14
 + Yuanchao Shu, Cheng Bo, Guobin Shen, Chunshui Zhao, **Liqun Li** and Feng Zhao; [Magicol: Indoor Localization Using Pervasive Magnetic Field and Opportunistic WiFi Sensing](https://kabru.eecs.umich.edu/yuanchao/paper/jsac15magicol.pdf) IEEE Journal of Selected Areas in Communications, vol.33, no.7, pp.1443-1457, July, 2015
 
@@ -74,8 +72,6 @@ Yang, Qingwei Lin, Saravanakumar Rajmohan, Zhangwei Xu, and Dongmei Zhang, [Figh
 + **Li, Liqun**; Xing, Guoliang; Sun, Limin; Liu, Yan; [QVS: quality-aware voice streaming for wireless sensor networks](http://www.cse.msu.edu/~glxing/docs/voice_icdcs09.pdf), *ICDCS*'09
 + **Li, Liqun**; Xing, Guoliang; Han, Qi; Sun, Limin; [Adaptive voice stream multicast over low-power wireless networks](http://www.cse.msu.edu/~glxing/docs/asm_rtss10.pdf), *RTSS*'10
 + **Li, Liqun**; Xing, Guoliang; Sun, Limin; Huangfu, Wei; Zhou, Ruogu; Zhu, Hongsong; [Exploiting fm radio data system for adaptive clock calibration in sensor networks](http://www.cse.msu.edu/~glxing/docs/rds-li.pdf), *Mobisys*'11
-+ **Li, Liqun**; Xing, Guoliang; Han, Qi; Sun, Limin; [ASM: Adaptive Voice Stream Multicast over Low-Power Wireless Networks](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5953596), *TPDS*'12
-+ **Li, Liqun**; Xing, Guoliang; Sun, Limin; Liu, Yan; [A Quality-aware Voice Streaming System for Wireless Sensor Networks](http://dl.acm.org/citation.cfm?id=2594775&dl=ACM&coll=DL&CFID=577593765&CFTOKEN=56847374), *TOSN*'14
 + **Liqun Li**; Limin Sun; Guoliang Xing; Wei Huangfu; Ruogu Zhou; Hongsong Zhu, ROCS: Exploiting FM Radio Data System for Clock Calibration in Sensor Networks, in *Mobile Computing, IEEE Transactions on* , vol.14, no.10, pp.2130-2144, Oct. 1 2015
 
 **Misc**
