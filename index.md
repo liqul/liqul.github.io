@@ -17,9 +17,11 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ## Selected Projects
 
-### AIOps
+### Intelligent Incident Management
 
-I'm working on various projects on AIOps now about incident detection, diagnosis, and mitigation in large-scale cloud systems. Please refer to my published papers (under the AIOps section below) for more details. 
+Outages cause huge loss in terms of money and customer satisfactory. I'm working on various projects about incident detection, diagnosis, and mitigation in large-scale cloud systems. For example, we developed a framework, namely [Warden](https://www.usenix.org/conference/atc21/presentation/li-liqun), based on a ML model to detect potential outages with monitor-generated alerts. Once a potential outage is detected, Warden fires a report to the on-call engineer and incident manager. Warden has been running in the incident management platform of Azure for over one year. 
+
+Another project is about automated diagnosis for cloud systems. More details TBD. 
 
 ### Data Management for Industrial IoT
 
@@ -56,8 +58,6 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 
 **AIOps**
 
-+ Zhuangbin Chen; Yu Kang; Hui Xu; Yangfan Zhou; Feng Gao; Li Yang; Jeffrey Sun; Zhangwei Xu; Pu Zhao; Bo Qiao; **Liqun Li**; Xu Zhang; Yingnong Dang; Qingwei Lin; Hongyu Zhang; Dongmei Zhang; Michael R. Lyu; [Towards Intelligent Incident Management: Why We Need It and How We Make It](https://www.microsoft.com/en-us/research/publication/towards-intelligent-incident-management-why-we-need-it-and-how-we-make-it-2/), *FSE (Industry)*'20
-+ Yaohui Wang, Guozheng Li, Zijian Wang, Yu Kang, Yangfan Zhou, Hongyu Zhang, Feng Gao, Jeffrey Sun, Li Yang, Pochian Lee, Zhangwei Xu, Pu Zhao, Bo Qiao, **Liqun Li**, Xu Zhang, Qingwei Lin, [Fast Outage Analysis of Large-scale Production Clouds with Service Correlation Mining](https://conf.researchr.org/details/icse-2021/icse-2021-papers/66/Fast-Outage-Analysis-of-Large-scale-Production-Clouds-with-Service-Correlation-Mining), *ICSE*'20
 + **Liqun Li**, Xu Zhang, Xin Zhao, Hongyu Zhang, Yu Kang, Pu Zhao, Bo Qiao, Shilin He, Pochian Lee, Jeffrey Sun, Feng Gao, Li 
 Yang, Qingwei Lin, Saravanakumar Rajmohan, Zhangwei Xu, and Dongmei Zhang, [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun), *ATC*'21
 
