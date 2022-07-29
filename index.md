@@ -1,4 +1,4 @@
-I am a system researcher & engineer with interests in IoT, Mobile, Big Data, and Cloud. I am currently focusing on AIOps projects where I am focused on optimizing the system reliability and resource provisioning efficiency for online services. 
+My name is Liqun Li. I am a system researcher & engineer with interests in IoT, Mobile, Big Data, and Cloud. I am currently focusing on AIOps projects where I am focused on optimizing the system reliability and resource provisioning efficiency for online services. 
 
 I received my Ph.D. degree in CS from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. degree from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
