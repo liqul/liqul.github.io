@@ -1,8 +1,6 @@
-My name is Liqun Li. I am a system researcher & engineer with interests in IoT, Mobile, Big Data, and Cloud. I am currently focusing on AIOps projects where I am focused on optimizing the system reliability and resource provisioning efficiency for online services. 
+My name is Liqun Li. I am a system engineer & researcher with interests in IoT, Mobile, Big Data, and Cloud. I am currently focused on optimizing the system reliability and resource provisioning efficiency for cloud systems. 
 
 I received my Ph.D. degree in CS from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. degree from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
-
-I like photography and reading books. To find some of my photos, please visit my <a href="https://500px.com/liqul">500px</a>. 
 
 Feel free to reach me at liqul (at) outlook.com, though I may not be very responsive. 
 
@@ -72,7 +70,6 @@ Yang, Qingwei Lin, Saravanakumar Rajmohan, Zhangwei Xu, and Dongmei Zhang, [Figh
 + **Li, Liqun**; Xing, Guoliang; Sun, Limin; Liu, Yan; [QVS: quality-aware voice streaming for wireless sensor networks](http://www.cse.msu.edu/~glxing/docs/voice_icdcs09.pdf), *ICDCS*'09
 + **Li, Liqun**; Xing, Guoliang; Han, Qi; Sun, Limin; [Adaptive voice stream multicast over low-power wireless networks](http://www.cse.msu.edu/~glxing/docs/asm_rtss10.pdf), *RTSS*'10
 + **Li, Liqun**; Xing, Guoliang; Sun, Limin; Huangfu, Wei; Zhou, Ruogu; Zhu, Hongsong; [Exploiting fm radio data system for adaptive clock calibration in sensor networks](http://www.cse.msu.edu/~glxing/docs/rds-li.pdf), *Mobisys*'11
-+ **Liqun Li**; Limin Sun; Guoliang Xing; Wei Huangfu; Ruogu Zhou; Hongsong Zhu, ROCS: Exploiting FM Radio Data System for Clock Calibration in Sensor Networks, in *Mobile Computing, IEEE Transactions on* , vol.14, no.10, pp.2130-2144, Oct. 1 2015
 
 **Misc**
 
