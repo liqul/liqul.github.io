@@ -1,4 +1,4 @@
-My name is Liqun Li. I am a system engineer & researcher with interests in IoT, Mobile, Big Data, and Cloud. I am currently focused on optimizing the system reliability and resource provisioning efficiency for cloud systems. 
+My name is Liqun Li. I am a system engineer & researcher with interests in IoT, Mobile, Big Data, and Cloud. I am currently focused on optimizing reliability and resource provisioning efficiency for cloud systems. 
 
 I received my Ph.D. degree in CS from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. degree from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
