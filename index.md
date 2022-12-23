@@ -60,6 +60,7 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 Yang, Qingwei Lin, Saravanakumar Rajmohan, Zhangwei Xu, and Dongmei Zhang, [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun), *ATC*'21
 + Xuheng Wang, Xu Zhang, **Liqun Li**, Shilin He, Hongyu Zhang, Yudong Liu, Lingling Zheng, Yu Kang, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang, SPINE: A Scalable Log Parser with Feedback Guidance, *FSE*'22, selected as the **SIGSOFT Distinguished Paper**
 + Y. Chen, **Liqun Li**, Y. Kang, B. Zheng, Y. Wang, M. Zhou, Y. Dai, Z. Yang, B. Rutkowski, J. Mealiffe, Q. Lin, NetPanel: Traffic Measurement of Exchange Online Service, *NSDI*'23
++ **Liqun Li**, Xu Zhang, Shilin He, Yu Kang, Hongyu Zhang, Minghua Ma, Yingnong Dang, Zhangwei Xu, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang, CONAN: Diagnosing Batch Failures for Cloud Systems, *ICSE (SEIP)*'23
 
 **Indoor Localization**
 
