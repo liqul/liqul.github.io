@@ -1,6 +1,6 @@
-My name is Liqun Li. I am a system engineer & researcher with interests in IoT, Mobile, Big Data, and Cloud. I am currently focused on optimizing reliability and resource provisioning efficiency for cloud systems. 
+My name is Liqun Li. I am a system engineer & researcher with interests in IoT, Mobile, Big Data, Machine Learning, and Cloud. I am currently focused on optimizing reliability and resource provisioning efficiency for cloud systems with data-driven approaches. 
 
-I received my Ph.D. degree in CS from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. degree from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
+I received my Ph.D. degree from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. degree from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
 Feel free to reach me at liqul (at) outlook.com, though I may not be very responsive. 
 
@@ -18,9 +18,9 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ### Intelligent Incident Management
 
-Outages cause huge loss in terms of money and customer satisfactory. I'm working on various projects about incident detection, diagnosis, and mitigation in large-scale cloud systems. For example, we developed a framework, namely [Warden](https://www.usenix.org/conference/atc21/presentation/li-liqun), based on a ML model to detect potential outages with monitor-generated alerts. Once a potential outage is detected, Warden fires a report to the on-call engineer and incident manager. Warden has been running in the incident management platform of Azure for over one year. 
+Outages cause huge loss in terms of money and customer satisfactory. I'm working on various projects about incident detection and diagnosis for Azure and Office 365. For example, we developed a framework, namely [Warden](https://www.usenix.org/conference/atc21/presentation/li-liqun), based on a ML model to detect potential outages with monitor-generated alerts. Once a potential outage is detected, Warden fires a report to the on-call engineer team and incident manager. Warden has been running in the incident management platform of Azure for over one year. 
 
-Another project is about automated diagnosis for cloud systems. More details TBD. 
+Another project is called CONAN, for automated diagnosis for large-scale online services. Though practical diagnosis scenarios vary from one to another, they share one common principle -- the process of finding the root cause usually manifests as comparing two groups of data, such as failed instances versus succeeded instances, instances with long latency versus those with normal latency, instances during an anomolous period versus those before that period. The differences between the two groups are usually indicative to the root cause. Previous work usually develops diagnosis systems for each indiviual scenario, wasting a lot of time and effort, which motivates us to build a unified framework, namely CONAN, for all such kind of failures. CONAN is a flexible framework that can be customized for different scenarios, which has now been adopted for over 10 scenarios in Azure and Office 365.  
 
 ### Data Management for Industrial IoT
 
