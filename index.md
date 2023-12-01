@@ -16,6 +16,13 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ## Selected Projects
 
+### Large Language Model (LLM)
+
+Large Language Models (LLMs) have shown impressive abilities in natural language understanding and generation, leading to their use in applications such as chatbots and virtual assistants. However, existing LLM frameworks face limitations in handling domain-specific data analytics tasks with rich data structures. Moreover, they struggle with flexibility to meet diverse user requirements. To address these issues, TaskWeaver is proposed as a code-first framework for building LLM-powered autonomous agents. It converts user requests into executable code and treats user-defined plugins as callable functions. TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic. It also incorporates domain-specific knowledge through examples and ensures the secure execution of generated code. TaskWeaver offers a powerful and flexible framework for creating intelligent conversational agents that can handle complex tasks and adapt to domain-specific scenarios. The code is open-sourced at [here](https://github.com/microsoft/TaskWeaver/).
+
+<img src="https://github.com/liqul/liqul.github.io/assets/7489260/64582cea-d944-468f-83e6-9c19f768ca01" width = "80%" align=center />
+
+
 ### Intelligent Incident Management
 
 Outages cause huge loss in terms of money and customer satisfactory. I'm working on various projects about incident detection and diagnosis for Azure and Office 365. For example, we developed a framework, namely [Warden](https://www.usenix.org/conference/atc21/presentation/li-liqun), based on a ML model to detect potential outages with monitor-generated alerts. Once a potential outage is detected, Warden fires a report to the on-call engineer team and incident manager. Warden has been running in the incident management platform of Azure for over one year. 
@@ -59,13 +66,16 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=icgetesAAAAJ&hl=en))
 
+**LLM**
++ Bo Qiao, **Liqun Li**, Xu Zhang, Shilin He, ..., [TaskWeaver: A Code-First Agent Framework](https://arxiv.org/abs/2311.17541),  *arXiv:2311.17541*
+
+
 **AIOps**
 
-+ **Liqun Li**, Xu Zhang, Xin Zhao, Hongyu Zhang, Yu Kang, Pu Zhao, Bo Qiao, Shilin He, Pochian Lee, Jeffrey Sun, Feng Gao, Li 
-Yang, Qingwei Lin, Saravanakumar Rajmohan, Zhangwei Xu, and Dongmei Zhang, [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun), *ATC*'21
-+ Xuheng Wang, Xu Zhang, **Liqun Li**, Shilin He, Hongyu Zhang, Yudong Liu, Lingling Zheng, Yu Kang, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang, [SPINE: A Scalable Log Parser with Feedback Guidance](https://dl.acm.org/doi/10.1145/3540250.3549176), *FSE*'22, selected as the **SIGSOFT Distinguished Paper**
-+ Y. Chen, **Liqun Li**, Y. Kang, B. Zheng, Y. Wang, M. Zhou, Y. Dai, Z. Yang, B. Rutkowski, J. Mealiffe, Q. Lin, [NetPanel: Traffic Measurement of Exchange Online Service](https://www.usenix.org/conference/nsdi23/presentation/chen-2), *NSDI*'23
-+ **Liqun Li**, Xu Zhang, Shilin He, Yu Kang, Hongyu Zhang, Minghua Ma, Yingnong Dang, Zhangwei Xu, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang, [CONAN: Diagnosing Batch Failures for Cloud Systems](https://conf.researchr.org/details/icse-2023/icse-2023-SEIP/6/CONAN-Diagnosing-Batch-Failures-for-Cloud-Systems), *ICSE (SEIP)*'23
++ **Liqun Li**, Xu Zhang, Xin Zhao, Hongyu Zhang, Yu Kang, ..., [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun), *ATC*'21
++ Xuheng Wang, Xu Zhang, **Liqun Li**, Shilin He, ..., [SPINE: A Scalable Log Parser with Feedback Guidance](https://dl.acm.org/doi/10.1145/3540250.3549176), *FSE*'22, selected as the **SIGSOFT Distinguished Paper**
++ Y. Chen, **Liqun Li**, Y. Kang, ..., [NetPanel: Traffic Measurement of Exchange Online Service](https://www.usenix.org/conference/nsdi23/presentation/chen-2), *NSDI*'23
++ **Liqun Li**, Xu Zhang, Shilin He, Yu Kang, Hongyu Zhang, ..., [CONAN: Diagnosing Batch Failures for Cloud Systems](https://conf.researchr.org/details/icse-2023/icse-2023-SEIP/6/CONAN-Diagnosing-Batch-Failures-for-Cloud-Systems), *ICSE (SEIP)*'23
 
 **Indoor Localization**
 
