@@ -7,8 +7,7 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 ## Work Experience
 
-* **2023.2  - now** Principal Researcher at Microsoft STCA (after reorg).
-* **2019.6  - 2023.2** Principal Researcher in Data. Knowledge. Intelligence (DKI) group at Microsoft Research Asia (MSRA).
+* **2019.6  - now** Principal Researcher in DKI (Data, Knowledge, and Intelligence) group at Microsoft.
 * **2016.11 - 2019.6** Architect at [K2Data](http://k2data.com.cn). 
 * **2016.5  - 2016.11** Engineer at [高德地图](https://www.amap.com/).
 * **2014.11 - 2016.2** Engineer at [PP租车](http://www.ppzuche.com).
