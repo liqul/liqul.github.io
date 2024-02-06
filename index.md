@@ -19,7 +19,7 @@ Feel free to reach me at liqul (at) outlook.com, though I may not be very respon
 
 Large Language Models (LLMs) have shown impressive abilities in natural language understanding and generation, leading to their use in applications such as chatbots and virtual assistants. However, existing LLM frameworks face limitations in handling domain-specific data analytics tasks with rich data structures. Moreover, they struggle with flexibility to meet diverse user requirements. To address these issues, TaskWeaver is proposed as a code-first framework for building LLM-powered autonomous agents. It converts user requests into executable code and treats user-defined plugins as callable functions. TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic. It also incorporates domain-specific knowledge through examples and ensures the secure execution of generated code. TaskWeaver offers a powerful and flexible framework for creating intelligent conversational agents that can handle complex tasks and adapt to domain-specific scenarios. The code is open-sourced at [here](https://github.com/microsoft/TaskWeaver/).
 
-<img src="https://github.com/liqul/liqul.github.io/assets/7489260/64582cea-d944-468f-83e6-9c19f768ca01" width = "80%" align=center />
+<img src="https://github.com/liqul/liqul.github.io/assets/7489260/144d9c68-139a-4cbc-93f4-598723c731ac" width = "80%" align=center />
 
 
 ### Intelligent Incident Management
