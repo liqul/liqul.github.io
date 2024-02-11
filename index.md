@@ -100,6 +100,6 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 + 2nd place in [IPSN Indoor Localization](http://research.microsoft.com/en-us/events/ipsn2014indoorlocalizatinocompetition/) Competition in 2014 held in Berlin, Germany.
 + Excellent Ph.D. thesis award by the Chinese Academy of Sciences in 2013.
 
-### My Life-Long Learning Book 
-The [book](https://liqul.github.io/mlllb)
+### My Life-Long Learning Journey
+The [book](https://liqul.github.io/mlllj)
 
