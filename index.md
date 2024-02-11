@@ -2,7 +2,7 @@ My name is Liqun Li. I am a system engineer & researcher with interests in IoT, 
 
 I received my Ph.D. degree from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. degree from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
 
-Feel free to reach me at liqul (at) outlook.com, though I may not be very responsive. 
+Feel free to reach me at liqul (at) outlook.com. 
 
 
 ## Work Experience
