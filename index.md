@@ -66,8 +66,8 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=icgetesAAAAJ&hl=en))
 
 **LLM**
-+ Bo Qiao, **Liqun Li**, Xu Zhang, Shilin He, ..., [TaskWeaver: A Code-First Agent Framework](https://arxiv.org/abs/2311.17541),  *arXiv:2311.17541*
-
++ Bo Qiao, **Liqun Li**, Xu Zhang, Shilin He, ..., [TaskWeaver: A Code-First Agent Framework](https://arxiv.org/pdf/2311.17541.pdf),  *arXiv:2311.17541* (2023).
++ Zhang, Chaoyun, **Liqun Li**, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma et al. [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/pdf/2402.07939.pdf) *arXiv:2402.07939* (2024).
 
 **AIOps**
 
@@ -75,6 +75,7 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 + Xuheng Wang, Xu Zhang, **Liqun Li**, Shilin He, ..., [SPINE: A Scalable Log Parser with Feedback Guidance](https://dl.acm.org/doi/10.1145/3540250.3549176), *FSE*'22, selected as the **SIGSOFT Distinguished Paper**
 + Y. Chen, **Liqun Li**, Y. Kang, ..., [NetPanel: Traffic Measurement of Exchange Online Service](https://www.usenix.org/conference/nsdi23/presentation/chen-2), *NSDI*'23
 + **Liqun Li**, Xu Zhang, Shilin He, Yu Kang, Hongyu Zhang, ..., [CONAN: Diagnosing Batch Failures for Cloud Systems](https://conf.researchr.org/details/icse-2023/icse-2023-SEIP/6/CONAN-Diagnosing-Batch-Failures-for-Cloud-Systems), *ICSE (SEIP)*'23
++ An, Kaikai, Fangkai Yang, **Liqun Li**, Zhixing Ren, Hao Huang, Lu Wang, Pu Zhao et al. [Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides](https://arxiv.org/pdf/2402.17531.pdf)  *arXiv:2402.17531* (2024).
 
 **Indoor Localization**
 
