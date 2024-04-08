@@ -1,34 +1,37 @@
-My name is Liqun Li. I am a system engineer & researcher with broad interests in various areas such as IoT, Mobile, Big Data, Machine Learning, and Cloud. I am currently focused on building autonomous agents based on LLMs for data analytics and workflow automation (check my [TaskWeaver](https://github.com/microsoft/TaskWeaver) project).  
+My name is Liqun Li. I'm currently a Principal Researcher in the DKI (Data, Knowledge, and Intelligence) group at Microsoft. I'm currently focused on building autonomous agents based on LLMs for data analytics and workflow automation. 
+Check my [TaskWeaver](https://github.com/microsoft/TaskWeaver) project.
 
-I received my Ph.D. from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009. 
+I received my Ph.D. from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009.
 
-Feel free to reach me at liqul (at) outlook.com. 
+I have broad interests in various areas such as IoT, Mobile, Big Data, Machine Learning, and Cloud. I have published papers in top-tier conferences and journals such as Mobisys, Mobicom, NSDI, ICDCS, RTSS, and TPDS. 
+
+*I'm always open to new opportunities and collaborations*. Feel free to drop me an email at liqul@outlook.com.
 
 
 ## Work Experience
 
-* **2019.6  - now** Principal Researcher in DKI (Data, Knowledge, and Intelligence) group at Microsoft.
-* **2016.11 - 2019.6** Architect at [K2Data](http://k2data.com.cn). 
-* **2016.5  - 2016.11** Engineer at [高德地图](https://www.amap.com/).
-* **2014.11 - 2016.2** Engineer at [PP租车](http://www.ppzuche.com).
-* **2012.8  - 2014.11** Researcher in Mobile Sensing and Systems group (MASS) at Microsoft Research Asia (MSRA).
+* **2019.06  - now** *Principal Researcher* in DKI (Data, Knowledge, and Intelligence) group at Microsoft AI.
+* **2016.11 - 2019.6** *Architect* at [K2Data](http://k2data.com.cn), a startup company on industrial IoT big data analytics in China.
+* **2016.05  - 2016.11** *Engineer* at [高德地图](https://www.amap.com/), a leading map service provider in China.
+* **2014.11 - 2016.02** *Engineer* at [PP租车](http://www.ppzuche.com), a startup company on peer-to-peer car rental service in China.
+* **2012.08  - 2014.11** *Researcher* in Mobile Sensing and Systems group (MASS) at Microsoft Research Asia (MSRA).
 
 ## Selected Projects
 
 ### LLM-powered Agent
 
-Large Language Models (LLMs) have shown impressive abilities in natural language understanding and generation, leading to their use in applications such as chatbots and virtual assistants. However, existing LLM frameworks face limitations in handling domain-specific data analytics tasks with rich data structures. Moreover, they struggle with flexibility to meet diverse user requirements. To address these issues, TaskWeaver is proposed as a code-first framework for building LLM-powered autonomous agents. It converts user requests into executable code and treats user-defined plugins as callable functions. TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic. It also incorporates domain-specific knowledge through examples and ensures the secure execution of generated code. TaskWeaver offers a powerful and flexible framework for creating intelligent conversational agents that can handle complex tasks and adapt to domain-specific scenarios. The code is open-sourced at [here](https://github.com/microsoft/TaskWeaver/).
+Large Language Models (LLMs) excel in natural language tasks but struggle with domain-specific data analytics and diverse user requirements. [TaskWeaver](https://github.com/microsoft/TaskWeaver/), a code-first framework, addresses these limitations by transforming user requests into executable code and treating plugins as callable functions. Supporting rich data structures, flexible plugin usage, dynamic plugin selection, and complex logic, TaskWeaver incorporates domain knowledge and ensures secure code execution. This powerful, adaptable framework enables intelligent conversational agents to manage intricate tasks and domain-specific scenarios. 
 
 <img src="https://github.com/liqul/liqul.github.io/assets/7489260/144d9c68-139a-4cbc-93f4-598723c731ac" width = "80%" align=center />
 
 
 ### Intelligent Incident Management
 
-Outages cause huge losses in terms of money and customer satisfaction. I'm working on various projects about incident detection and diagnosis for Azure and Office 365. For example, we developed a framework, namely [Warden](https://www.usenix.org/conference/atc21/presentation/li-liqun), based on an ML model to detect potential outages with monitor-generated alerts. Once a potential outage is detected, Warden fires a report to the on-call engineer team and incident manager. Warden has been running in the incident management platform of Azure for over one year. 
+Outages result in significant financial and customer satisfaction losses. My work focuses on incident detection and diagnosis for Azure and Office 365, including the development of [Warden](https://www.usenix.org/conference/atc21/presentation/li-liqun), an ML-based framework for detecting potential outages using monitor-generated alerts. Upon detection, Warden notifies on-call engineers and incident managers. Successfully integrated into Azure's incident management platform, Warden has been operational for over a year. 
 
 <img src="/assets/warden.png" width = "80%" align=center />
 
-Another project is called [CONAN](https://conf.researchr.org/details/icse-2023/icse-2023-SEIP/6/CONAN-Diagnosing-Batch-Failures-for-Cloud-Systems), for automated diagnosis for large-scale online services. Though practical diagnosis scenarios vary from one to another, they share one common principle -- the process of finding the root cause usually manifests as comparing two groups of data, such as failed instances versus succeeded instances, instances with long latency versus those with normal latency, instances during an anomalous period versus those before that period. The differences between the two groups are usually indicative of the root cause. Previous work usually develops diagnosis systems for each individual scenario, wasting a lot of time and effort, which motivates us to build a unified framework, namely CONAN, for all such kinds of failures. CONAN is a flexible framework that can be customized for different scenarios, which has now been adopted for over 10 scenarios in Azure and Office 365.  
+Another project is called [CONAN](https://conf.researchr.org/details/icse-2023/icse-2023-SEIP/6/CONAN-Diagnosing-Batch-Failures-for-Cloud-Systems), for automated diagnosis for large-scale online services. Though practical diagnosis scenarios vary from one to another, they share one common principle -- the process of finding the root cause usually manifests as comparing two groups of data, such as failed instances versus succeeded instances, instances with long latency versus those with normal latency, instances during an anomalous period versus those before that period. The differences between the two groups are usually indicative of the root cause. CONAN is a flexible framework that can be customized for different scenarios, which has now been adopted for over 10 scenarios in Azure and Office 365.  
 
 <img src="/assets/Conan.png" width = "80%" align=center />
 
@@ -101,6 +104,4 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 + 2nd place in [IPSN Indoor Localization](http://research.microsoft.com/en-us/events/ipsn2014indoorlocalizatinocompetition/) Competition in 2014 held in Berlin, Germany.
 + Excellent Ph.D. thesis award by the Chinese Academy of Sciences in 2013.
 
-### My Life-Long Learning Journey
-The [book](https://liqul.github.io/mlllj)
 
