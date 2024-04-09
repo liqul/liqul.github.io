@@ -1,4 +1,4 @@
-# 个人简介
+## 个人简介
 
 李立群是微软（中国）有限公司DKI（数据、知识和智能）组的研究员，他目前专注于研发基于大语言模型的生成（rag）和智能体（agent）相关的应用，他是[TaskWeaver](https://github.com/microsoft/TaskWeaver)项目的主要贡献者之一。
 
