@@ -5,7 +5,7 @@ I received my Ph.D. from the Institute of Software Chinese Academy of Sciences (
 
 I have broad interests in various areas such as IoT, Mobile, Big Data, Machine Learning, and Cloud. I have published papers in top-tier conferences and journals including Mobisys, Mobicom, NSDI, ATC, ICSE, ESEC/FSE, ICDCS, RTSS, TPDS, TOSN, etc.
 
-*I'm always open to new opportunities and collaborations* [中文简历](index_cn.md). Feel free to drop me an email at liqul@outlook.com.
+*I'm always open to new opportunities and collaborations* [中文简历](index_cn.md). Feel free to drop me an email at liqul@outlook.com or liliqun.2002@tsinghua.org.cn.
 
 
 
