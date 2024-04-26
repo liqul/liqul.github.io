@@ -1,5 +1,5 @@
 My name is Liqun Li [李立群](index_cn.md). I'm currently a Principal Researcher in the DKI (Data, Knowledge, and Intelligence) group at Microsoft. I'm currently focused on building autonomous agents based on LLMs for data analytics and workflow automation. 
-Check my [TaskWeaver](https://github.com/microsoft/TaskWeaver) project.
+Check my [TaskWeaver](https://github.com/microsoft/TaskWeaver) project and here is the video for technique [deepdive](https://www.youtube.com/watch?v=7Q7rSSfFPLE).
 
 I received my Ph.D. from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009.
 
