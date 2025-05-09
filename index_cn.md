@@ -26,6 +26,8 @@
 **大模型相关**
 + Bo Qiao, **Liqun Li**, Xu Zhang, Shilin He, ..., [TaskWeaver: A Code-First Agent Framework](https://arxiv.org/pdf/2311.17541.pdf),  *arXiv:2311.17541* (2023).
 + Zhang, Chaoyun, **Liqun Li**, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma et al. [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/pdf/2402.07939.pdf) *arXiv:2402.07939* (2024).
++ Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, **Liqun Li** et al. [Large Language Model-Brained GUI Agents: A Survey](https://arxiv.org/abs/2411.18279) *arXiv:2411.18279* (2024).
++ Chaoyun Zhang, ..., **Liqun Li**, et al. [UFO2: The Desktop AgentOS](https://arxiv.org/abs/2504.14603) *arXiv:2504.14603* (2025).
 
 **智能运维**
 
