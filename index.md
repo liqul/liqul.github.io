@@ -11,7 +11,7 @@ I have broad interests in various areas such as IoT, Mobile, Big Data, Machine L
 
 ## Work Experience
 
-* **2019.06  - now** *Principal Researcher* in DKI (Data, Knowledge, and Intelligence) group at Microsoft AI.
+* **2019.06  - now** *Principal Researcher* in DKI (Data, Knowledge, and Intelligence) group at Microsoft.
 * **2016.11 - 2019.6** *Architect* at [K2Data](http://k2data.com.cn), a startup company on industrial IoT big data analytics in China.
 * **2016.05  - 2016.11** *Engineer* at [高德地图](https://www.amap.com/), a leading map service provider in China.
 * **2014.11 - 2016.02** *Engineer* at [PP租车](http://www.ppzuche.com), a startup company on peer-to-peer car rental service in China.
