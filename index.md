@@ -25,6 +25,10 @@ Large Language Models (LLMs) excel in natural language tasks but struggle with d
 
 <img src="https://github.com/liqul/liqul.github.io/assets/7489260/144d9c68-139a-4cbc-93f4-598723c731ac" width = "80%" align=center />
 
+[StepFly](https://arxiv.org/pdf/2510.10074v1) is an agentic automation framework that can execute natural language based workflow documentation. A concrete example is automating troubleshooting guide execution for service incident management. StepFly's execution follows a pre-extracted lightweighted DAG of the target workflow, achieving high efficiency and reliablity. Moreover, StepFly can assign multiple executors for parallable steps on the DAG, further accelerating the process.
+
+<img width="80%" alt="stepfly" src="https://github.com/user-attachments/assets/c5b11107-64d6-4c7c-9647-278fbe3c1618" />
+
 
 ### Intelligent Incident Management
 
