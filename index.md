@@ -1,5 +1,4 @@
 My name is Liqun Li [李立群](index_cn.md). I'm currently a Principal Researcher in the DKI (Data, Knowledge, and Intelligence) group at Microsoft. I'm currently focused on building autonomous agents based on LLMs for data analytics and workflow automation. 
-Check my [TaskWeaver](https://github.com/microsoft/TaskWeaver) project and here is the video for technique [deepdive](https://www.youtube.com/watch?v=7Q7rSSfFPLE).
 
 I received my Ph.D. from the Institute of Software Chinese Academy of Sciences (ISCAS) in 2012, and my B.E. from the Department of Computer Science and Technology at Tsinghua University in 2006. I visited Michigan State University as a visiting scholar in 2009.
 
@@ -21,11 +20,11 @@ I have broad interests in various areas such as IoT, Mobile, Big Data, Machine L
 
 ### LLM-powered Agent
 
-Large Language Models (LLMs) excel in natural language tasks but struggle with domain-specific data analytics and diverse user requirements. [TaskWeaver](https://github.com/microsoft/TaskWeaver/), a code-first framework, addresses these limitations by transforming user requests into executable code and treating plugins as callable functions. Supporting rich data structures, flexible plugin usage, dynamic plugin selection, and complex logic, TaskWeaver incorporates domain knowledge and ensures secure code execution. This powerful, adaptable framework enables intelligent conversational agents to manage intricate tasks and domain-specific scenarios. 
+Large Language Models (LLMs) excel in natural language tasks but struggle with domain-specific data analytics and diverse user requirements. [TaskWeaver](https://github.com/microsoft/TaskWeaver/), a code-first framework, addresses these limitations by transforming user requests into executable code and treating plugins as callable functions. Supporting rich data structures, flexible plugin usage, dynamic plugin selection, and complex logic, TaskWeaver incorporates domain knowledge and ensures secure code execution. This powerful, adaptable framework enables intelligent conversational agents to manage intricate tasks and domain-specific scenarios. Here is the video for technique [deepdive](https://www.youtube.com/watch?v=7Q7rSSfFPLE).
 
 <img src="https://github.com/liqul/liqul.github.io/assets/7489260/144d9c68-139a-4cbc-93f4-598723c731ac" width = "80%" align=center />
 
-[StepFly](https://arxiv.org/pdf/2510.10074v1) is an agentic automation framework that can execute natural language based workflow documentation. A concrete example is automating troubleshooting guide execution for service incident management. StepFly's execution follows a pre-extracted lightweighted DAG of the target workflow, achieving high efficiency and reliablity. Moreover, StepFly can assign multiple executors for parallable steps on the DAG, further accelerating the process.
+[StepFly](https://arxiv.org/pdf/2510.10074v1) is an agentic automation framework that can execute natural language based workflow documentation. A concrete example is automating troubleshooting guide execution for service incident management. StepFly's execution follows a pre-extracted lightweighted DAG of the target workflow, achieving high efficiency and reliablity. Moreover, StepFly can assign multiple executors for parallable steps on the DAG, further accelerating the process. StepFly's code has been published [here](https://github.com/microsoft/StepFly).
 
 <img width="80%" alt="stepfly" src="https://github.com/user-attachments/assets/c5b11107-64d6-4c7c-9647-278fbe3c1618" />
 
@@ -78,6 +77,7 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 + Zhang, Chaoyun, **Liqun Li**, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma et al. [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/pdf/2402.07939.pdf) *arXiv:2402.07939* (2024).
 + Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, **Liqun Li** et al. [Large Language Model-Brained GUI Agents: A Survey](https://arxiv.org/abs/2411.18279) *arXiv:2411.18279* (2024).
 + Chaoyun Zhang, ..., **Liqun Li**, et al. [UFO2: The Desktop AgentOS](https://arxiv.org/abs/2504.14603) *arXiv:2504.14603* (2025).
++ Jiayi Mao, **Liqun Li**, et al. [Agentic Troubleshooting Guide Automation for Incident Management](https://arxiv.org/abs/2510.10074) *arXiv:2510.10074* (2025)
 
 **AIOps**
 
