@@ -77,7 +77,7 @@ Wireless sensor network (WSN) typically refers to a large number of networked em
 + Zhang, Chaoyun, **Liqun Li**, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma et al. [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/pdf/2402.07939.pdf) *arXiv:2402.07939* (2024).
 + Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, **Liqun Li** et al. [Large Language Model-Brained GUI Agents: A Survey](https://arxiv.org/abs/2411.18279) *arXiv:2411.18279* (2024).
 + Chaoyun Zhang, ..., **Liqun Li**, et al. [UFO2: The Desktop AgentOS](https://arxiv.org/abs/2504.14603) *arXiv:2504.14603* (2025).
-+ Jiayi Mao, **Liqun Li**, et al. [Agentic Troubleshooting Guide Automation for Incident Management](https://arxiv.org/abs/2510.10074) *arXiv:2510.10074* (2025)
++ Jiayi Mao, **Liqun Li**, et al. [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://arxiv.org/abs/2510.10074) *FSE* (2026)
 
 **AIOps**
 
